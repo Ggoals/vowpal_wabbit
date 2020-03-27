@@ -7,7 +7,7 @@ It served to benchmark algorithms described in the paper "Modeling Delayed Feedb
 
 Instructions
 
- - -Go to http://labs.criteo.com/downloads/2014-conversion-logs-dataset/- ( deprecated )
+ - ~Go to http://labs.criteo.com/downloads/2014-conversion-logs-dataset/~ ( deprecated )
  - Go to http://labs.criteo.com/2013/12/conversion-logs-dataset/
  - Download the tar file after agreeing to the terms and conditions
  - Untar the file 
